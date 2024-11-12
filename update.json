@@ -1,6 +1,6 @@
 {
-  "version": "v17.9",
-  "versionCode": 17900,
-  "zipUrl": "https://github.com/chiteroman/PlayIntegrityFix/releases/download/v17.9/PlayIntegrityFix_v17.9.zip",
-  "changelog": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/changelog.md"
+  "version": "1.5.1",
+  "versionCode": 13
+  "zipUrl": "最新版本压缩包网络地址",
+  "changelog": "最新版本MD介绍文件网络地址"
 }
